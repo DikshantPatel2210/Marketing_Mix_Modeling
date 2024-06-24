@@ -1,1 +1,1 @@
-# Marleting_Mix_Modeling
+# Marketing_Mix_Modeling
